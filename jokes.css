@@ -1,0 +1,34 @@
+joke
+	{
+	display: block;
+	position:relative;
+	top:30px;
+	left:30px;
+	width:500px;
+	border:solid 1px;
+	padding:20px;
+	margin:20px;
+	font-size: 18px;
+	}
+
+
+createdAt
+
+	{
+	display: block; 
+	color:green;
+	font-weight:bold;
+	}
+
+category
+	{
+	display: block;
+	color:red;
+	font-weight:bold;
+	}
+
+content
+	{
+	display:block;
+	font-style:italic;
+	}

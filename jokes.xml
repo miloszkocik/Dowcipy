@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="Windows-1250"?>
+<?xml-stylesheet type="text/css" href="jokes.css" ?>
+
+<jokes>
+    <joke>
+        <createdAt>04/12/2014</createdAt>
+        <category>O informatykach</category>
+        <content>
+		Na urodzinach informatyka znajomy daje mu prezent. Otwiera, patrzy, a tam pendrive. Po chwili mowi:
+
+		- Dziekuje za pamiec.		
+	</content>
+    </joke>
+
+    <joke>
+        <createdAt>04/12/2014</createdAt>
+        <category>O informatykach</category>
+        <content>
+		- Czy ja się dodzwoniłem do obsługi klienta?
+		- Tak.
+		- Możecie sprawdzić z jakiej przeglądarki korzystam?
+		- Skoro pan dzwoni to zapewne Internet Explorer.
+	</content>
+    </joke>	
+    <joke>
+        <createdAt>04/12/2014</createdAt>
+        <category>O informatykach</category>
+        <content>
+		Jaka jest różnica między informatykiem 1 i 5 roku?
+		- Informatyk 1 roku myśli, że 1 KB to 1000 bajtów.
+		- Informatyk 5 roku myśli, że kilometr to 1024 metry.		
+	</content>
+    </joke>		
+    <joke>
+        <createdAt>04/12/2014</createdAt>
+        <category>Zwierzęta</category>
+        <content>
+		Lew z rana postanowił się dowartościować. Złapał więc Zająca i pyta:
+		- Kto jest królem dżungli.
+		- Ty,Ty królu! - mówi wystrachany zając.
+		Lew puścił go i złapał zebrę:
+		- Kto jest królem zwierząt?
+		- Ty Lwie. Ty jesteś królem!
+		- Ok. - Lew puścił zebrę.
+		Lew dorwał niedźwiedzia. Powalił go i pyta:
+		- Mów kto jest królem zwierząt.
+		Miś był nie w sosie więc mówi:
+		- Eee... no...
+		Na to Lew go walnął raz, drugi i pyta:
+		- Więc kto jest królem zwierząt?
+		- No dobra, ty jesteś królem zwierząt.
+		Lew dumny jak paw podchodzi do słonia i pyta:
+		- Ty słoń, kto jest królem zwierząt.
+		Słoń spojrzał i nagle złapał lwa trąbą i gruchnął nim o skały.
+		Wybił mu zęby i połamał kości. Lew otrząsnął się i mówi:
+		- Kurfa, słoń jak nie wies to sie nie denerfuj
+		</content>
+    </joke>	
+    <joke>
+        <createdAt>04/12/2014</createdAt>
+        <category>Zwierzęta</category>
+        <content>
+		Dwóch kumpli wyszło na spacer ze swoimi psami. Jeden z labradorem, drugi z jamnikiem. Jeden kolega mówi do drugiego:
+		- Może wejdziemy na piwko?
+		- Nie wpuszczą nas przecież z psami.
+		- Nie marudź, rób to co ja.
+		Pierwszy z labradorem wchodzi do środka i od razu słyszy od barmana:
+		- Przepraszam Pana, ale nie wolno wchodzić z psami
+		- Ale to pies przewodnik.
+		- Oczywiście, przepraszam. Zapraszam do środka.
+		Po chwili wchodzi drugi z jamnikiem.
+		Barman od wejścia:
+		- Przepraszam, nie wolno wpuszczać psów do baru
+		- Ale to pies przewodnik
+		- Proszę pana, to jamnik...
+		- KU*WA DALI MI JAMNIKA?
+		- O, przepraszam. Proszę wejść
+	</content>
+    </joke>		
+</jokes>
